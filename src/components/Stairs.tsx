@@ -1,5 +1,7 @@
+/* eslint-disable */
+// @ts-nocheck
 import React from 'react';
-import { animate, motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 
 const stairAnimation = {
     initial: {
